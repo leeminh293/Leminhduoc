@@ -17,5 +17,5 @@ for key in wordCount.keys():
 
 file.close()
 
-print("--------------------- %s seconds -----------------" % (time.time() - start_time))
+print("--------------------- %s secondsssss -----------------" % (time.time() - start_time))
 
