@@ -1,0 +1,40 @@
+Plan Chương trình đào tạo gồm 12 phần
+-giới thiệu chương trình đào tạo
+ 
+
+-custom control devexpress , backend API fe dùng winforms
+-vận hành chính trong source code
+-kiến trúc chi tiết coding
+-tạo database đặt các table,column,label,...
+
+-cấu hình hệ thống : cần có 1 source code chính cho nhiều dự án
+
+-đào tạo oop, .net core, database sql, api
+
+
+
+
+
+
+
+
+
+
+
+phân hệ kế toán đi từ
+
+quỹ -> ngân hàng -> kế toán tổng hợp -> báo cáo tài chính -> tính giá thành -> chênh lệch tỷ giá
+-> kế toán kho -> công cụ dụng cụ -> tài sản cố định -> công nợ phải thu -> công nợ phải trả
+
+quỹ gồm phép thu vs phép chi
+ngân hàng: hoạt động tài chính báo nợ báo có
+kế toán tổng hợp: hoạt động chung của kế toán gồm phiếu kế toán, các bù trừ công nợ , chứng từ
+báo cáo tài chính: báo cáo cho bộ phận quản trị,dự báo tài chính cho tương lai
+tính giá thành: định mức giá thành cấu hình sản xuất ra 1 sản phẩm
+chênh lệch tỉ giá: xử lý tỉ giá ngoại tệ chênh lệch
+kế toán kho: đưa về kho hàng, kế toán đưa ra các khoản nợ, có , phù hợp vs sản phẩm từ đó đưa ra cách tính hàng tồn kho ntn
+
+
+
+
+Cấu trúc code
